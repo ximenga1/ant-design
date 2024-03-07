@@ -1,0 +1,5 @@
+{
+  "name": "@ant-design/antd",
+  "version": "5.15.1-alpha.0",
+  "exports": "./components/index.ts"
+}
