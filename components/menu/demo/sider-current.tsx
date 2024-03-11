@@ -33,7 +33,7 @@ const items: MenuItem[] = [
     getItem('Option 6', '6'),
     getItem('Submenu', 'sub3', null, [getItem('Option 7', '7'), getItem('Option 8', '8')]),
   ]),
-  getItem('Navigation Three', 'sub4', <SettingOutlined />, [
+  getItem('Navigation这里的样恶恶IEu日俄瑞文u日u人温柔 Three', 'sub4', <SettingOutlined />, [
     getItem('Option 9', '9'),
     getItem('Option 10', '10'),
     getItem('Option 11', '11'),
